@@ -1,0 +1,14 @@
+{
+    "Header": [
+        {
+            "alg": "HS256",
+            "typ": "JWT"
+        }
+    ],
+    "Payload": [
+        {
+            "Pass": "1234567890",
+            "User": "John Doe"
+        }
+    ]
+}
